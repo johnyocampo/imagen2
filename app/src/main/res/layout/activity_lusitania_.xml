@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Estelar_Activity">
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lusitania"
+
+            />
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/informacion_lusitania"
+            android:textSize="23dp"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="italic"
+            android:textColor="@color/royalblue"
+            />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ubicacion_lusitania"
+            android:textSize="23dp"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="italic"
+            android:textColor="@color/royalblue"
+            />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

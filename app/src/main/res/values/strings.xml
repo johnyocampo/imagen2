@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Ibagué turística</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="mensaje_inicio">IBAGUE: cuidad de la musica</string>
+    <string name="publicidad">Ciudad con gente bella, lugares hermosos y gastronomía muy particular
+    </string>
+
+    <string name="mboton_principal">CONOCE UN POCO IBAGUÉ</string>
+    <string name="title_activity_menu_">MENU PRINCIPAL</string>
+    <string name="title_activity_hoteles__actvity">HOTELES</string>
+    <string name="title_activity_bares_">BARES</string>
+    <string name="title_activity_sitios_">SITIOS TURISTICOS</string>
+
+
+
+    <string name="title_activity_estelar_">HOTEL <ESTELAR></ESTELAR></string>
+    <string name="informacion_estelar">
+     Atención personalizada las 24 horas con wifi easy connect, centro de negocios, gimnasio, piscina,
+        cancha de tenis, restaurantes. Todo para un viaje de ensueño.</string>
+
+    <string name="ubicacion_estelear">
+        Está ubicado junto a la Universidad de Tolima, en pleno centro financiero al lado del Parque
+        Natural de Los Nevados     Carrera 1 No. 45 – 50 - Ibagué - Colombia  PBX +57 (8) 266 6111
+Línea Gratuita en Colombia 018000978000</string>
+
+
+
+    <string name="title_activity_casa_morales_">HOTEL CASA MORALES</string>
+
+    <string name="informacion_morales">Este hotel cuenta con piscina, salón de belleza
+    y spa, restaurantes, bares, parque infantil, gimnasio y mucho más.</string>
+
+
+    <string name="Ubicacion_morales">Cra. 3 # 3 -47 B/ La Pola
+    Ibagué, Tolima
+    Colombia
+    Teléfono: +57 (8) 261-9404</string>
+
+    <string name="title_activity_lusitania_">HOTEL LUSITANIA</string>
+
+
+
+    <string name="informacion_lusitania">Este hotel cuenta con excelentes restaurantes, piscina, galería
+    y un museo</string>
+
+
+    <string name="ubicacion_lusitania">Cra. 2 N° 15-55 - Tel. (57 8) 261 9166 - 261 9658 - 261 6941 - Fax. (57 8) 261 9260 - Ibagué, Tolima, Colombia.</string>
+    <string name="title_activity_maromas_">BAR MAROMAS</string>
+
+
+    <string name="informacion_maromas">Este es un acogedor hogar del Rock and Roll que respeta el concepto de los mejores bares tradicionales del género.
+De esto da prueba la cuidadosa e irreverente decoración del lugar, que mediante sus posters
+alusivos a las grandes leyendas del rock, la iconografía transgresora y su iluminación bohemia,
+logra ambientarnos la ruda pero placentera atmósfera del mundo del Rock and Roll.
+
+
+</string>
+
+    <string name="ubicacion_maromas">Dirección: avenida Guabinal con Calle 46 esquinaIbagué CO
+
+Contacto maromas bar - https://www.facebook.com/diego.arias.393
+Sitio Webhttps://www.facebook.com/groups/224209130974642/
+</string>
+    <string name="title_activity_london_">BAR LONDON HOUSE</string>
+
+    <string name="informacion_london">Este es un lugar donde puedes tener la mejor cerveza con la mejor atmósfera de nuestra ciudad, ven y vive la experiencia.
+    Finalmente ha llegado un Bar con la realidad de uno Ingles.</string>
+
+    <string name="ubicacion_london">Dirección Carrera 6 #46-51 Ibagué CO
+Teléfono 2668995
+Sitio Web https://es-es.facebook.com/PubLondonHouse2014
+</string>
+
+    <!--Bar vino y tinto-->
+    <string name="title_activity_vino_ytinto_">BAR VINO Y TINTO</string>
+    <string name="informacion_vinoytinto">Tres tazas de tinto recién preparado,
+        cuatro mojicones de La Gogo, una hamaca, dos sillones y tres personas en
+        un segundo piso de madera donde se respira el arte que emana su dueño con
+        cada maravilla a la que da vida. Este fue el ambiente propicio y los ingredientes
+        necesarios para dar origen a uno de los más bellos, tranquilos y acogedores
+        bares de Ibagué, “VINOTINTO CAFÉ-BAR”.</string>
+    <string name="ubicacion_vinotinto">Dirección Carrera 3 No. 7-39 - La Pola Ibagué CO
+Teléfono 310-317-1635
+Contacto contacto@vinoytinto.com
+Sitio Web http://www.vinoytinto.com/
+</string>
+
+
+    <string name="title_activity_centenario_">PARQUE CENTENARIO</string>
+    <string name="informacion_Centenario">El Parque Centenario, en el centro de Ibagué, es un espacio ideal para despejar
+    la mente. Hasta aquí llegan por las mañanas decenas de personas a trotar y a caminar
+    bajo las sombras de los ocobos. En el parque se encuentra la concha acústica Garzón
+    y Collazos, bautizada en homenaje a los célebres músicos Darío Garzón y Eduardo Collazos,
+    que conformaron un dueto musical muy conocido en Colombia.</string>
+
+
+    <string name="Ubicacion_Centenario">Abierto todos los días al público. Cl. 10 entre cra. 5 y 7.</string>
+
+
+    <string name="title_activity_conservatorio_">CONSERVATORIO DE IBAGUE</string>
+
+    <string name="informacion_Conservatorio">En esta capital se encuentran conservatorios de
+        música como el de la Institución Amina Melendro de Pulecio, quien debe su nombre a su
+        fundadora,  que en 1959 abrió sus puertas con un bachillerato musical para la formación
+        de grandes músicos con calidad humana. En el año 2009, siendo  Rectora la especialista
+        Ibeth Lucia Barrera Castro, esta institución recibe el nombre de Conservatorio de Ibagué,
+        gracias al excelente proyecto académico musical y la formación además de Intérpretes de
+        cuerdas, vientos y percusión sinfónica, presentado a toda la comunidad ibaguereña.</string>
+    <string name="ubicacion_Conservatorio">Carrera 1 calle 9 No. 1-18
+Ibagué - Tolima - Colombia
++57 8 2618526
++57 8 2639139
+http://www.conservatoriodeltolima.edu.co
+</string>
+    <string name="title_activity_parque_musica_">PARQUE DE LA MUSICA</string>
+
+    <string name="informacion_ParqueMusica">La fuente luminosa que se activa al ritmo de la música,
+        una amplia zona de conciertos, cuatro esculturas a escala humana en hierro, hacen parte de
+        los atractivos del Parque de la Música.</string>
+    <string name="ubicacion_ParqueMusica">Dirección</string>
+
+
+    <string name="title_activity_catedral_">CATEDRAL DE IBAGUE</string>
+    <string name="informacion_Catedral">Su nombre es Catedral Inmaculada Concepción. A principios
+        de 1926 comenzó su obra. Una Iglesia de forma de cuatro naves. A Monseñor Rodríguez se le
+        debe este templo estilo románico, columnas y capitales, arco de medio punto, bóvedas
+        lindamente ornamentadas y rosetones de alto efecto decorativo</string>
+    <string name="ubicacion_Catedral">Dirección</string>
+
+
+    <string name="title_activity_jardin_">JARDÓN BOTÁNICO</string>
+    <string name="informacion_Jardin">El Jardín Botánico San Jorge cuenta con una amplia
+        experiencia en procesos de gestión y manejo del arbolado urbano. Como corporación, tenemos
+        el conocimiento y una gran trayectoria en la construcción de jardines, ofrecemos asesorías
+        forestales, ambientales y paisajísticas con un cumulo de referencias certificadas
+        ejecutadas con éxito en el territorio Tolimense. La corporación San Jorge, se hace
+        responsable también de los procesos y actividades de jardinería   , vivero,  propagación
+        y mantenimiento de colecciones vivas,  aplicando tecnologías limpias en nutrición,
+        manejo y control de plagas.
+    Por la experiencia y compromiso con el medio ambiente, el Jardín Botánico San Jorge hace extensiva
+        su oferta de servicios a toda la comunidad.</string>
+    <string name="ubicacion_Jardin">Dirección: Vía Calambeo Antigua Granja San Jorge :: Teléfono: +57(8) 263 8334
+        ::Correo: info@jardinbotanicosanjorge.org </string>
+
+    <string name="title_activity_demografia_">DEMOGRAFÍA DE IGABUÉ</string>
+
+    <string name="informacion_Demografía">La ciudad de Ibagué en 2015 tiene 553.524 habitantes
+        (Proyección DANE 2015) y ocupa el octavo lugar a nivel nacional en población después de
+        Bogotá, Medellín, Cali, Barranquilla, Cartagena, Cucuta y Soledad, ver: Anexo:Ciudades de
+        Colombia por población(Censo DANE, estimado junio de 2011),, y por extensión comparte el
+        sexto puesto entre las ciudades mas grandes del país junto con Cúcuta, al poseer
+        similitudes en la longitud del casco urbano con esa ciudad. La tasa de crecimiento
+        demográfica más alta entre 1951 y 1964. La población de los centros urbanos del
+        departamento del Tolima pasó de ser eoría: en 1951 a ser el 51,3 porciento en 1973. En materia
+        de Pobreza y desigualdad entre los años 2002 y 2009, paso de tener el 40,18% a 31,57porciento
+        y de pobreza extrema pasó del 10,55 a 7,20porciento; el 63porciento de los habitantes de Ibague pertenece
+        a los estratos 1 y 2, el 26porciento al estrato 3 y tan solo el 11porciento a los altos estratos,
+        registrando así que Ibague es la cuarta ciudad con menos pobreza del país según el DANE.
+    %</string>
+    <string name="title_activity_acercade_activity">ACERCA DE</string>
+
+    <string name="titulo_johny">JOHNY OCAMPO AGUIRRE</string>
+    <string name="informacion_johny">Johny ocampo es actual estudiante de octavo semestre
+        de ingeniería electónica de la Universidad de Antioquia. Nació en Aranzazu-Caldas
+    en 1988. Se desempeña en programaión móvil desde agosto del año 2015. Diseñó esta aplicación
+    pensando en la comodidad y en la facilidad de tener información colectiva sobre ibagué como
+    bello sitio turístico de colombia.</string>
+
+
+
+
+
+
+</resources>

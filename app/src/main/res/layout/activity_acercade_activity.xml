@@ -1,0 +1,77 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Estelar_Activity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/logo_verde"
+                android:layout_gravity="center_horizontal"
+                />
+        </LinearLayout>
+        <android.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/titulo_johny"
+                android:textSize="30dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/red"
+                />
+
+            <android.widget.Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/informacion_johny"
+                android:textSize="23dp"
+                android:layout_gravity="center_horizontal"
+
+
+                android:textColor="@color/royalblue"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

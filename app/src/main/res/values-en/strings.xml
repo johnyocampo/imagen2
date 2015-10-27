@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Ibague Touristic</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="mensaje_inicio">IBAGUE: Music City</string>
+    <string name="publicidad">Very special city with beautiful people, beautiful places and gastronomy
+    </string>
+
+    <string name="mboton_principal">Knowing a little IBAGUE</string>
+    <string name="title_activity_menu_">Main menuL</string>
+    <string name="title_activity_hoteles__actvity">HOTELS</string>
+    <string name="title_activity_bares_">bars</string>
+    <string name="title_activity_sitios_">TOURIST SITES</string>
+
+
+
+    <string name="title_activity_estelar_">ESTELAR HOTEL <ESTELAR></ESTELAR></string>
+    <string name="informacion_estelar">
+     Personalized attention 24 hours with easy connect wifi, business center, gym, swimming pool, tennis courts, restaurants. All for a dream vacation.</string>
+
+    <string name="ubicacion_estelear">
+        It is located next to the University of Tolima, in the financial center next to the Natural Park of Los Nevados Carrera 1 No. 45-50 - Ibague - Colombia PBX +57 (8) 266 6111 018 000 978 000 Toll Free in Colombia</string>
+
+
+
+    <string name="title_activity_casa_morales_">CASA MORALES HOTEL </string>
+
+    <string name="informacion_morales">This hotel has a pool, beauty salon and spa, restaurants, bars, playground, gym and much more.</string>
+
+
+    <string name="Ubicacion_morales">Cra. 3 # 3 -47 B/ La Pola
+    Ibagué, Tolima
+    Colombia
+    Teléfono: +57 (8) 261-9404</string>
+
+    <string name="title_activity_lusitania_">LUSITANIA HOTEL </string>
+
+
+
+    <string name="informacion_lusitania">This hotel has excellent restaurants, swimming pool, gallery
+  and a museum</string>
+
+
+    <string name="ubicacion_lusitania">Cra. 2 N° 15-55 - Tel. (57 8) 261 9166 - 261 9658 - 261 6941 - Fax. (57 8) 261 9260 - Ibagué, Tolima, Colombia.</string>
+    <string name="title_activity_maromas_">MAROMAS BAR </string>
+
+
+    <string name="informacion_maromas">This is a cozy home of the Rock and Roll that respects the traditional concept of the best bars of the genre.
+This testifies to the careful decoration and irreverent, that by their alluding to the great legends of rock posters, iconography and transgressive bohemian lighting, rue ambientarnos achieved but pleasant atmosphere of the world of Rock and Roll.
+
+
+</string>
+
+    <string name="ubicacion_maromas">Address: avenida Guabinal con Calle 46 esquinaIbague CO
+
+maromas bar Contact - https://www.facebook.com/diego.arias.393
+Sitio Webhttps://www.facebook.com/groups/224209130974642/
+</string>
+    <string name="title_activity_london_">LONDON HOUSE BAR </string>
+
+    <string name="informacion_london">This is a place where you can have the best beer with the best atmosphere of our city, come and live the experience.
+     Finally it has come a bar with one reality English.</string>
+
+    <string name="ubicacion_london">Addres: Carrera 6 #46-51 Ibagué CO
+Tel 2668995
+ Web site https://es-es.facebook.com/PubLondonHouse2014
+</string>
+
+    <!--Bar vino y tinto-->
+    <string name="title_activity_vino_ytinto_">VINO Y TINTO BAR </string>
+    <string name="informacion_vinoytinto">Three cups of red freshly prepared,
+         The four punches of Gogo, a hammock, two armchairs and three people on the second floor where the art of wood that comes with its own each wonder to the life-giving breath. This was the enabling environment and ingredients
+         necessary to give rise to one of the most beautiful, quiet and cozy bars of Ibague, "VINOTINTO COFFEE-BAR".</string>
+    <string name="ubicacion_vinotinto">Address Carrera 3 No. 7-39 - La Pola Ibagué CO
+Tel 310-317-1635
+Contact: contacto@vinoytinto.com
+ Web site http://www.vinoytinto.com/
+</string>
+
+
+    <string name="title_activity_centenario_">CENTENARIO PARK</string>
+    <string name="informacion_Centenario">Centennial Park, in the center of Ibague, is an ideal place to clear your mind space. So here come the dozens of people morning jogging and walking
+     under the shadows of the Ocobos. In the park is the band shell Garzón and Collazos, named in honor of the famous musicians Dario Eduardo Garzón and Collazos, who formed a well-known musical duo in Colombia.</string>
+
+
+    <string name="Ubicacion_Centenario">Open daily to the public. Cl. 10 between cra. 5 and 7.</string>
+
+
+    <string name="title_activity_conservatorio_">IBAGUE CONSERVATORY</string>
+
+    <string name="informacion_Conservatorio">In this capital conservatories are
+         music as the Institution of Pulecio Melendro Amina, who is named after its founder, who in 1959 opened a music school for the formation of great musicians with human qualities. In 2009, with Chancellor specialist
+         Ibeth Lucia Barrera Castro, this institution called the Conservatory of Ibague, thanks to the excellent academic musical training project and interpreters plus strings, winds and percussion symphony, presented to the entire community ibaguereña.</string>
+    <string name="ubicacion_Conservatorio">Carrera 1 calle 9 No. 1-18
+Ibagué - Tolima - Colombia
++57 8 2618526
++57 8 2639139
+http://www.conservatoriodeltolima.edu.co
+</string>
+    <string name="title_activity_parque_musica_">THE MUSIC PARK</string>
+
+    <string name="informacion_ParqueMusica">The light source is activated by the music,
+         a large area of concerts, four sculptures on a human scale in iron, are part of
+         the attractions of the Music Park.</string>
+    <string name="ubicacion_ParqueMusica"></string>
+
+
+    <string name="title_activity_catedral_"> IBAGUE CATHEDRAL</string>
+    <string name="informacion_Catedral">His name is Immaculate Conception Cathedral. earlier
+         1926 he began his work. A Church as four ships. Monsignor Rodriguez owes this temple Romanesque columns and capitals, arch, beautifully ornamented vaults and rosettes high decorative effect</string>
+    <string name="ubicacion_Catedral">Dirección</string>
+
+
+    <string name="title_activity_jardin_">BOTANICAL GARDEN</string>
+    <string name="informacion_Jardin">The Botanical Garden San Jorge has extensive experience in management processes and management of urban trees. As a corporation, we have the knowledge and great experience in the construction of gardens, we offer forestry, environmental and landscape consultants with a host of references certified successfully executed in Tolima territory. The San Jorge, corporation becomes
+         also responsible for the processes and activities of gardening, nursery, propagation and maintenance of living collections, using clean technologies in nutrition,
+         management and control of pests. By experience and commitment to the environment, the Botanical Garden San Jorge extends
+         its range of services </string>
+    <string name="ubicacion_Jardin">Address: Vía Calambeo Antigua Granja San Jorge :: Tel: +57(8) 263 8334
+        ::Mail: info@jardinbotanicosanjorge.org </string>
+
+    <string name="title_activity_demografia_">DEMOGRAPHICS</string>
+
+    <string name="informacion_Demografía">The city of Ibague in 2015 has 553,524 inhabitants
+        (Projection DANE 2015) and ranks eighth nationally in population after
+        Bogota, Medellin, Cali, Barranquilla, Cartagena, Cucuta and Soledad, see: List of Cities
+        Colombia by population (DANE Census, estimated June 2011) and by extension ,, shares
+        sixth place among the largest cities in the country with Cucuta, possessing
+        similarities in the length of the town with the city. The growth rate
+        Demographic highest between 1951 and 1964. The population of urban centers
+        Tolima went from eoría: in 1951 to be 51.3 percent in 1973. In the area
+        Poverty and inequality between 2002 and 2009, step of having the 40.18% to 31.57 percent
+        and extreme poverty fell from 10.55 to 7.20 percent; 63 percent of the population belongs Ibague
+        at levels 1 and 2, the 26 percent stratum 3 and only 11 percent to the upper strata,
+        thus registering to Ibague is the fourth city in the country with less poverty according to DANE.
+    %</string>
+    <string name="title_activity_acercade_activity">ABOUT</string>
+
+    <string name="titulo_johny">JOHNY OCAMPO AGUIRRE</string>
+    <string name="informacion_johny">Jhonny Ocampo is currently eighth semester student of electonica engineering from the University of Antioquia. Born in Aranzazu-Caldas in 1988. He serves on mobile programaión since August 2015. This application Designed for comfort and ease of having collective information on ibagué as beautiful tourist site in Colombia.</string>
+
+
+
+
+
+
+</resources>
